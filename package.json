@@ -1,0 +1,29 @@
+{
+  "name": "castelaooo",
+  "version": "0.0.1",
+  "description": "Twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertez/castelaooo.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "node"
+  ],
+  "author": "Berto Yáñez <berto@ber.to>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bertez/castelaooo/issues"
+  },
+  "homepage": "https://github.com/bertez/castelaooo#readme",
+  "dependencies": {
+    "redis": "^2.0.1",
+    "string": "^3.3.1",
+    "twit": "^2.1.0"
+  }
+}
