@@ -1,5 +1,5 @@
 {
-  "name": "castelaooo",
+  "name": "Patria",
   "version": "0.0.1",
   "description": "Twitter bot",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bertez/castelaooo.git"
+    "url": "git+https://github.com/icosti/Patria.git"
   },
   "keywords": [
     "twitter",
     "bot",
     "node"
   ],
-  "author": "Berto Yáñez <berto@ber.to>",
+  "author": "Curros <currosenriquez@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bertez/castelaooo/issues"
+    "url": "https://github.com/icosti/Patria/issues"
   },
-  "homepage": "https://github.com/bertez/castelaooo#readme",
+  "homepage": "https://github.com/icosti/Patria#readme",
   "dependencies": {
     "redis": "^2.0.1",
     "string": "^3.3.1",
