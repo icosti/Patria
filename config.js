@@ -7,5 +7,5 @@ module.exports = {
         access_token_secret: '',
     },
     track: 'sdjlkflkdsjsdlf',
-    media: 'media/castelaooo.jpg'
+    media: 'media/Patria.jpg'
 };
